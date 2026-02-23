@@ -37,6 +37,22 @@
 
 ---
 
+## 📸 图片资源
+
+技术博客中使用的图片存放在 [`images/`](./images/) 文件夹。
+
+**来源：**
+- AI 助手对话中发送的图片
+- 博客文章的配图
+- 截图、图表、示意图
+
+**命名规范：**
+- `post-title-date-01.png`
+- `diagram-concept.svg`
+- `screenshot-feature-001.jpg`
+
+---
+
 ## 📄 许可证
 
 本文档采用 CC BY-NC-SA 4.0 许可证
