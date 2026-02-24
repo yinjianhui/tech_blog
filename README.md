@@ -7,6 +7,7 @@
 - [001-2026-02-23 Zvec 入门完全指南：从零开始掌握阿里巴巴开源向量数据库](./001-2026-02-23-zvec-intro.md)
 - [002-2026-02-23 从 App 开发到智能体 API：一场必然的转型](./002-2026-02-23-app-to-agent-api.md)
 - [003-2026-02-24 Transformer 架构详解：从 QKV 到 Self-Attention](./003-2026-02-24-transformer-qkv-self-attention.md)
+- [004-2026-02-25 Figma放大招了!用Claude Code写的代码,一键变设计稿](./004-2026-02-25-claude-code-figma.md)
 
 ---
 
