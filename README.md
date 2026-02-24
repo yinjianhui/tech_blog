@@ -4,9 +4,9 @@
 
 ## 📚 博客列表
 
-- [2026-02-23-001 Zvec 入门完全指南：从零开始掌握阿里巴巴开源向量数据库](./blog-zvec-intro.md)
-- [2026-02-23-002 从 App 开发到智能体 API：一场必然的转型](./blog-wechat-20260223-app-to-agent-api.md)
-- [2026-02-24-001 Transformer 架构详解：从 QKV 到 Self-Attention](./2026-02-24-transformer-qkv-self-attention.md)
+- [001-2026-02-23 Zvec 入门完全指南：从零开始掌握阿里巴巴开源向量数据库](./blog-zvec-intro.md)
+- [002-2026-02-23 从 App 开发到智能体 API：一场必然的转型](./blog-wechat-20260223-app-to-agent-api.md)
+- [003-2026-02-24 Transformer 架构详解：从 QKV 到 Self-Attention](./2026-02-24-transformer-qkv-self-attention.md)
 
 ---
 
