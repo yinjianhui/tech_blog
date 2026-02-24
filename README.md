@@ -14,6 +14,18 @@
 - 如何构建面向智能体的 API
 - 转型中的机遇与挑战
 
+### [Transformer 架构详解：从 QKV 到 Self-Attention](./2026-02-24-transformer-qkv-self-attention.md)
+2017年 Google 提出的 Transformer 架构彻底改变了 NLP 领域。本文从零开始，用通俗易懂的方式深入讲解 Transformer 的核心原理。
+
+**内容概览：**
+- 为什么需要 Transformer（RNN 的局限性）
+- Self-Attention 的本质与工作原理
+- Q、K、V 三剑客详解
+- Multi-Head Attention 多头机制
+- Encoder-Decoder 架构解析
+- 完整的 PyTorch 代码实现
+- 从原理到应用（BERT、GPT 等）
+
 ### [Zvec 入门完全指南](./blog-zvec-intro.md)
 阿里巴巴开源向量数据库的完整入门教程，从零开始掌握向量搜索技术。
 
